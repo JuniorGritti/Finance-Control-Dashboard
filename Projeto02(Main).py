@@ -30,7 +30,7 @@ colors = ['#5588bb', '#66bbbb', '#99bb55', '#ee9944', '#444466', '#bb5555', '#2f
 
 #Menu:
 Menu = Tk()
-Menu.title(" ◈ Personal Control | Dashboard ◈")
+Menu.title(" ◈ Finance Control | Dashboard ◈")
 Menu.geometry("900x650")
 Menu.configure(background=co9)
 Menu.resizable(width=FALSE, height=FALSE)
