@@ -3,6 +3,7 @@
 import os
 import sqlite3 as lite
 import pandas as pd
+from Projeto02 import con
 
 #Conexões:
 pasta_do_view = os.path.dirname(os.path.abspath(__file__))

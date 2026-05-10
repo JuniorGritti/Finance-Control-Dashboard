@@ -1,0 +1,4 @@
+Dados.db
+__pycache__/
+venv/
+*.py[cod]
