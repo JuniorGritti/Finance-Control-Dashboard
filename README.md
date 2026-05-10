@@ -40,6 +40,20 @@ O sistema segue princípios de **Engenharia de Software**, com separação clara
 
 ## 🛠️ Como Executar
 
-1. Clone o repositório:
+Para rodar este projeto localmente, siga os passos abaixo no seu terminal:
+
+1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/JuniorGritti/Finance-Control-Dashboard.git](https://github.com/JuniorGritti/Finance-Control-Dashboard.git)
+   git clone https://github.com/JuniorGritti/Finance-Control-Dashboard.git
+
+2. **Entre na pasta do projeto:**
+   ```bash
+   cd Finance-Control-Dashboard
+
+3. **Instale as dependências necessárias:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Inicie o sistema:**
+   ```bash
+   python "Projeto02(Main).py"
